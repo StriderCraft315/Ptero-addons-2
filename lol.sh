@@ -6,7 +6,7 @@ BLUE='\033[1;34m'; CYAN='\033[1;36m'; GREEN='\033[1;32m'
 YELLOW='\033[1;33m'; RED='\033[1;31m'; RESET='\033[0m'
 
 # ===== Config =====
-GITHUB_RAW_BASE="https://raw.githubusercontent.com/StriderCraft315/Pterodactyl-Theme-Installer/main/Assets"
+GITHUB_RAW_BASE="https://raw.githubusercontent.com/StriderCraft315/Ptero-addons-2/main/Assets"
 INSTALL_DIR="/var/www/pterodactyl"
 BLUEPRINTS=( "pullfiles" "loader" "versionchanger" )
 
